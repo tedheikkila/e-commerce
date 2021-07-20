@@ -16,7 +16,9 @@
 
   What is this app and what does it do:
 
-  This app is designed for a user who wants a functioning back-end e-commerce. Using MySQL as the database repository, VSC as the coding environment, and Postman as the API testing environment, this app, e-commerce, allows a user to establish a diverse amount of categories, products, tags, and product tags. Please note that Insomnia was not used due to its limited 14-day free trial period, but would function equally as well for API route testing. 
+  This app is designed for a user who wants a functioning back-end e-commerce repo. Using MySQL as the database repository, VSC as the coding environment, and Postman as the API testing environment, this app, e-commerce, allows a user to establish a diverse amount of categories, products, tags, and product tags. 
+  
+  Please note that Insomnia was not used due to its limited 14-day free trial period, but would function equally as well for API route testing. Additionally, the instructor approved that Postman could be used in lieu of Insomnia.
 
   Technologies used: VSC, Javascript, Node, MySQL, mysql2, sequelize, express, dotenv, and Postman.
 
